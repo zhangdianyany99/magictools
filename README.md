@@ -454,6 +454,7 @@ _Blogs, portals, magazines and more_
 - [Mod DB](http://www.moddb.com/)
 - [Java Gaming](http://www.java-gaming.org/)
 - [Lost Garden](http://www.lostgarden.com/)
+- [Materix](https://materix.org/) - AI tools directory for game development, with discovery by task and engine plus tool profiles, guides, and workflows.
 - [Polygon](http://www.polygon.com/)
 - [Real-Time Rendering](http://www.realtimerendering.com/)
 - [Slidedb](http://www.slidedb.com/) - On Slide DB we give developers a community they can share their ideas with and showcase the work they are doing, beyond the basic app stores and the highly contested "top charts".
